@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://yougonlearn.today/"
 title           = "YGLT | You Gon Learn TODAY!"
 theme           = "remark-twemoji"
 languageCode    = "en-us"
