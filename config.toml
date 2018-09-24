@@ -1,0 +1,11 @@
+baseURL = "/"
+title           = "YGLT | You Gon Learn TODAY!"
+theme           = "remark-twemoji"
+languageCode    = "en-us"
+canonifyurls    = true
+
+[params]
+  googleAnalytics = ""
+  name            = "Kara Carrell"
+  description     = "YGLT | You Gon Learn TODAY!"
+  custom_css      = ["custom.css"]
